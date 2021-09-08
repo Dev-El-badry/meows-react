@@ -1,10 +1,10 @@
 # Getting Started with project
 
---sh
+`
 npm install
---
+`
 
-#### AND
---sh
+##### AND
+`
 npm start
---
+`
